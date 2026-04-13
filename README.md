@@ -1,16 +1,16 @@
-# Exercise-05-EnemiesAndNavMeshes
+# Project 05-FPS Maze
 
 
 
 ## Implementation
 
-enemy with nav mesh agent, platform with nav mesh surface
+Main menu and end screen, materials for walls and floor, interactable that triggers ending, directional light and point light.
 
 ## References
 
 ## Future Development
 
-Final project: all elements together with menu and end screen.
+Game music, levels, various enemies.
 
 ## Created by
 
